@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.667892
+#+DATE: 2015-08-30 20:00:50.102294
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0012_T_013-0954c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《父子合集經》卷第十三¶
+《父子合集經》卷第十三¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-24淨居天子說偈讚佛品
-:PROPERTIES:
-:head: 淨居天子說偈讚佛品第二十四
-:END:
-¶
+淨居天子說偈讚佛品第二十四¶
 
 爾時會中有無數淨居天子及無量眾生，於¶
 佛法中，心得覺悟，離諸疑惑，深生愛樂，歡喜¶
@@ -216,7 +211,7 @@
 #+BEGIN_VERSE
 「　「若業經多生，
 　或俱胝劫數，¶
-　展轉于今身，
+　展轉干今身，
 　受報佛能了。」
 #+END_VERSE
 」¶

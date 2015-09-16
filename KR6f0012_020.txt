@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.867026
+#+DATE: 2015-08-30 20:00:50.277371
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0012_T_020-0974a> ¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 《父子合集經》卷第二十¶
+《父子合集經》卷第二十¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
@@ -209,7 +208,7 @@
 浮提中，有昵彌王十善治化，一切人民獲得
 <pb:KR6f0012_T_020-0975c>¶
 法利，善巧方便饒益眾生。是時帝釋天主在¶
-於餘處，以淨天耳聞如上說。時彼天主來會¶
+於餘處，以淨天耳聞如上說。彼彼天主來會¶
 中坐，問諸天子：『向說何事？』彼即對曰：『閻浮提¶
 人快得法利，有昵彌王深達諸法，善巧方便¶
 攝化眾生，住顛倒者令離顛倒，前所論者乃¶

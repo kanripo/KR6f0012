@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.393877
+#+DATE: 2015-08-30 20:00:49.837025
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0012_T_002-0922a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《父子合集經》卷第二¶
+《父子合集經》卷第二¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
@@ -370,11 +369,7 @@
 #+END_VERSE
 」¶
 
-2王詣佛所品
-:PROPERTIES:
-:head: 《父子合集經》王詣佛所品第二
-:END:
-¶
+《父子合集經》王詣佛所品第二¶
 
 時淨飯王前已謂尊者優陀夷言：「不久我當¶
 躬詣佛所，諒惟世尊，他心先鑒。即召釋種擇¶
