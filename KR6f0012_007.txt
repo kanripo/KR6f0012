@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.522532
+#+DATE: 2015-08-30 20:00:48.221902
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHIGU
 #+PROPERTY: LASTPB <pb:KR6f0012_T_007-0936c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《父子合集經》卷第七¶
+《父子合集經》卷第七¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-12緊那羅王授記品
-:PROPERTIES:
-:head: 緊那羅王授記品第十二
-:END:
-¶
+緊那羅王授記品第十二¶
 
 爾時會中，有八俱胝緊那羅王，其上首者名¶
 曰大樹，見諸阿修羅王乃至諸藥叉眾，咸於¶
@@ -387,11 +382,7 @@
 #+END_VERSE
 」¶
 
-13寶瓔珞天授記品
-:PROPERTIES:
-:head: 《父子合集經》寶瓔珞天授記品第十三
-:END:
-¶
+《父子合集經》寶瓔珞天授記品第十三¶
 
 爾時會中有八俱胝寶瓔珞天子，見諸阿修¶
 羅乃至緊那羅等於佛會所作大供養，及聞¶

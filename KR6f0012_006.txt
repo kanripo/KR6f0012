@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.499157
+#+DATE: 2015-08-30 20:00:48.195853
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHIGU
 #+PROPERTY: LASTPB <pb:KR6f0012_T_006-0934a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《父子合集經》卷第六¶
+《父子合集經》卷第六¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-9鳩盤茶王授記品
-:PROPERTIES:
-:head: 鳩盤茶王授記品第九
-:END:
-¶
+鳩盤茶王授記品第九¶
 
 爾時會中有十八俱胝鳩盤茶王，見諸阿修¶
 羅及迦樓羅諸龍王等作供養已，心生愛樂；¶
@@ -152,11 +147,7 @@
 #+END_VERSE
 」¶
 
-10乾闥婆王授記品
-:PROPERTIES:
-:head: 《父子合集經》乾闥婆王授記品第十
-:END:
-¶
+《父子合集經》乾闥婆王授記品第十¶
 
 爾時會中，復有三十六俱胝乾闥婆王，見諸
 <pb:KR6f0012_T_006-0935a>¶
@@ -328,11 +319,7 @@
 #+END_VERSE
 」¶
 
-11藥叉王授記品
-:PROPERTIES:
-:head: 《父子合集經》藥叉王授記品第十一
-:END:
-¶
+《父子合集經》藥叉王授記品第十一¶
 
 爾時會中有八十俱胝大藥叉王，見彼阿修¶
 羅王乃至乾闥婆王等於如來所廣作供養，¶
@@ -399,7 +386,7 @@
 　是身如幻如谷響，¶
 　常以悲願利群生，
 　於佛菩提無退轉。¶
-　我今稱讚佛功德，
+　我令稱讚佛功德，
 　一切世間無過上，¶
 　迴此少善及有情，
 　未來同得成佛道。」

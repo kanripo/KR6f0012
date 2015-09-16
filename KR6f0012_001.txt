@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.359484
+#+DATE: 2015-08-30 20:00:48.077054
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHIGU
 #+PROPERTY: LASTPB <pb:KR6f0012_T_001-0919a> 
 #+PROPERTY: JUAN 1
 ¶
-No.320[No.310(16)]¶
-
- 《父子合集經》卷第一¶
+No. 320 [No. 310(16)]¶
+《父子合集經》卷第一¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-1淨飯王始發信心品
-:PROPERTIES:
-:head: 淨飯王始發信心品第一
-:END:
-¶
+淨飯王始發信心品第一¶
 
 如是我聞：
 
@@ -358,7 +353,7 @@ No.320[No.310(16)]¶
 時尊者優陀夷¶
 具諸威儀，結跏趺坐，涌在虛空，高七多羅樹，¶
 即現種種神通變化。時淨飯王遙見尊者乘¶
-空而來，心生歡喜，合掌瞻仰。說伽陀曰：¶
+空而來，心生歎喜，合掌瞻仰。說伽陀曰：¶
 
 #+BEGIN_VERSE
 「　「希有成就殊勝行，

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.812108
+#+DATE: 2015-08-30 20:00:48.507143
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHIGU
 #+PROPERTY: LASTPB <pb:KR6f0012_T_018-0969b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
 ¶
-
- 《父子合集經》卷第十八¶
+《父子合集經》卷第十八¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
