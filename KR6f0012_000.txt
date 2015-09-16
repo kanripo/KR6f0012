@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 父子合集經
+#+DATE: 2015-08-30 20:00:47.247268
+#+PROPERTY: JUAN 0
