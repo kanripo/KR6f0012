@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:46.730445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:52
 #+TITLE: 父子合集經
 #+PROPERTY: CBETA_ID T11n0320
 #+PROPERTY: ID KR6f0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 320
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0012_T_015-0961b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《父子合集經》卷第十五¶
+《父子合集經》卷第十五¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚卿宣梵大師賜紫¶
 沙門臣日稱等奉　詔譯¶
 
-25外道婆羅門授記品
-:PROPERTIES:
-:head: 外道婆羅門授記品第二十五
-:END:
-¶
+* 外道婆羅門授記品第二十五¶
 
 爾時會中有外道婆羅門，名鉢哩沒囉惹迦，¶
 與其眷屬六萬人俱，見諸阿修羅王、迦樓羅¶
@@ -332,9 +327,9 @@
 　如來能動三千界，
 　放無量光普照明，¶
 　成熟一切諸有情，
-　唯願與授菩提記。」
+　唯願與授菩提記。」」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊知諸外道深心信解，口放淨光。時¶
 尊者馬勝以偈問曰：¶
@@ -360,9 +355,9 @@
 　善哉牟尼大聖主，
 　能斷一切諸疑惑，¶
 　今此眾會咸樂聞，
-　於佛法中生愛樂。」
+　於佛法中生愛樂。」」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊為馬勝比丘說伽陀曰：¶
 
@@ -419,8 +414,8 @@
 　如來善伏魔怨者，
 　與諸外道授佛記，¶
 　聞已咸生歡喜心，
-　皆當成就一切智。」
+　皆當成就一切智。」」
 #+END_VERSE
-」¶
+¶
 《父子合集經》卷第十五¶
 
